@@ -1,6 +1,6 @@
 # Esercizio n.1 del Corso WEB DEVELOPMENT PART TIME
 
-Questo repository contiene l'esercizio n.1 svolto durante il corso WEB DEVELPMENT PART TIME, utilizzando Visual Studio Code.
+Questo repository contiene l'esercizio n.1 svolto durante il corso WEB DEVELOPMENT PART TIME, utilizzando Visual Studio Code.
 
 ## Contenuto
 
